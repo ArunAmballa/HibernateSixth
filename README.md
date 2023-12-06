@@ -1,0 +1,2 @@
+# HibernateSixth
+OneToOne Mapping
